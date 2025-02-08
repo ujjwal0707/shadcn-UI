@@ -10,3 +10,4 @@ There are two steps to run this project.
 use the below credentials to login into the mail section
 id - admin
 pass - Admin@2024#
+![alt text](<Screenshot 2025-02-08 163314.png>) ![alt text](<Screenshot 2025-02-08 163410.png>)
