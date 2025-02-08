@@ -19,7 +19,7 @@ export default function IndexPage() {
   };
 
   const handleLogin = () => {
-    console.log("Form Data:", formData);
+    
     if (formData.username === "admin" && formData.password === "Admin@2024#") {
       setError(false);
       router.push("/examples/mail");
