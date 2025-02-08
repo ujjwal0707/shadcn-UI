@@ -1,6 +1,9 @@
-Used the shadcn ui components to create the UI.
+
 In the home page the Login section is degined.
 after successful login , the page is navigated to the mail section.
+
+Implementation:
+Used the shadcn ui components to create the UI.
 
 There are two steps to run this project.
 
